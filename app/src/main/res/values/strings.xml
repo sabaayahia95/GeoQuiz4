@@ -15,4 +15,5 @@ freshwater lake.</string>
     <string name="correct_toast">Correct!</string>
     <string name="incorrect_toast">Incorrect!</string>
     <string name="next_button">Next</string>
+    <string name="pre_button">Prev </string>
 </resources>
